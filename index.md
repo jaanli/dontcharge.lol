@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "dontcharge.lol"
   text: "Like http://three.sentenc.es/ but for video conference calls (Zoom, Google Meet, etc) to norm and form behavior change"
-  tagline: Also check out https://matt.might.net/articles/how-to-email/
+  tagline: Also check out https://matt.might.net/articles/how-to-email/ and Virginia Tufte's Artful Sentences, and Clarity, Style and Grace by Joseph M. Williams
   actions:
     - theme: brand
       text: Markdown Examples
