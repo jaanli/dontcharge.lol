@@ -5,6 +5,7 @@
     "docs:preview": "vitepress preview ."
   },
   "devDependencies": {
-    "vitepress": "^1.2.2"
+    "vitepress": "^1.2.2",
+    "search-insights": "^2.14.0"
   }
 }
