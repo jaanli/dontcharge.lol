@@ -22,5 +22,5 @@ features:
   - title: Step 3
     details: If you do not charge your phone, you are not able to use it, buying you some respite - and not wasting electricity (sustainable development goals have sustainability in the name!). Oh also if you disable your video you will conserve your battery (also good for the environment).
   - title: Other tidbits
-    details: Feel free to get up and move around, turn off the video, or ask a question at any point (and expected me to do the same)
+    details: Feel free to get up and move around, turn off the video, or ask a question at any point (and expected me to do the same) - also make sure to go to your Settings -> Accessibility -> Invert color -> and turn the switch on :) this can help cognitively decouple from adverts that may be designed to elicit a behavioral change or emotional response, such as those that use https://www.deceptive.design/ :)
 ---
